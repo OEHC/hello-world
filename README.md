@@ -1,7 +1,8 @@
-hello-world
+Hello-World
 ===========
 
 My first repository on GitHub!
-Woaah!
 
-GG
+This is used for testing the fratures on GitHub!
+
+It works!
